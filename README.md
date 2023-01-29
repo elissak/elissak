@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome to my page 👋
+---
 
-<!--
-**elissak/elissak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My name is Elissa
+- I like listening to :sparkles: Taylor Swift :sparkles: but not country music 
+- My favorite 🍦 is mint chocolate chip
+- I hope I can learn how to code well by the end of this course 
+- I am currently working on ecommerce 
 
-Here are some ideas to get you started:
+This is how my face looks when I am learning ***math*** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![giphy](https://user-images.githubusercontent.com/123492093/215298839-5391a4f0-70d3-4c03-9627-d1512305db2a.gif)
+
+---
